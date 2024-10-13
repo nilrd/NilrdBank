@@ -74,15 +74,16 @@ Você também pode testar a criação de conta via **Postman**. Veja um exemplo:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nilsondasilvabrites" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 40px; margin-right: 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 100px; margin-right: 10px;" />
   </a>
   <a href="mailto:nilson.brites@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" style="width: 40px; margin-right: 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" style="width: 100px; margin-right: 10px;" />
   </a>
   <a href="https://wa.me/5511940825120" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" alt="WhatsApp" style="width: 100px;" />
   </a>
 </p>
+
 
 ## Contribuição
 
