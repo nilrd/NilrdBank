@@ -70,19 +70,13 @@ Você também pode testar a criação de conta via **Postman**. Veja um exemplo:
   <img src="https://github.com/nilrd/NilrdBank/blob/master/src/main/resources/evidencias/postman.png" alt="Postman" style="width: 60%;" />
 </p>
 
-## Redes Sociais
+## Fale comigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nilsondasilvabrites" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 100px; margin-right: 10px;" />
-  </a>
-  <a href="mailto:nilson.brites@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" style="width: 100px; margin-right: 10px;" />
-  </a>
-  <a href="https://wa.me/5511940825120" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" alt="WhatsApp" style="width: 100px;" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilsondasilvabrites/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilrd)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511940825120)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nilson.brites@gmail.com)
+
 
 
 ## Contribuição
