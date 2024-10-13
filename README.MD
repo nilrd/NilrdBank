@@ -1,84 +1,14 @@
-# Nilrd Bank
+# Meus Repositórios
 
-<p align="center">
-  <img src="https://github.com/nilrd/NilrdBank/blob/master/src/main/resources/static/logo.png" alt="Logo Nilrd Bank" style="width: 150px;" />
-</p>
-
-**Nilrd Bank** é um sistema bancário simples, criado usando **Spring Boot** no backend e **HTML/CSS/JavaScript** no frontend. O sistema permite criar contas bancárias através de uma interface amigável e moderna.
-
-## Funcionalidades
-
-- Criação de contas bancárias com dados como número da conta, agência, nome do cliente e saldo inicial.
-- Formatação automática de saldo com separadores de milhar e casas decimais.
-- Mensagens claras de sucesso após a criação da conta.
-
-## Tecnologias Utilizadas
-
-- **Java 17** com **Spring Boot**
-- **HTML/CSS** e **JavaScript** para o frontend
-- **Postman** para testes de API
-
-## Como Rodar o Projeto
-
-### Backend
-1. Clone este repositório:
-   ```bash
-   git clone git@github.com:nilrd/NilrdBank.git
-   ```
-2. Importe o projeto em sua IDE favorita (IntelliJ, Eclipse, etc.).
-3. Execute o arquivo principal `NilrdBankApplication.java`.
-4. O backend estará rodando na porta `8081`.
-
-### Frontend
-1. Com o backend rodando, abra o arquivo `index.html` localizado em `src/main/resources/static/` no seu navegador.
-2. Preencha os dados da conta e clique em "Criar Conta".
-3. Você verá a mensagem de confirmação com os dados da conta criada.
-
-## Testando a API com o Postman
-
-Você também pode testar a criação de conta via **Postman**. Veja um exemplo:
-
-- Método: **POST**
-- URL: `http://localhost:8081/api/conta/criar`
-- Corpo da requisição (JSON):
-  ```json
-  {
-    "numero": 1234,
-    "agencia": "4456",
-    "nomeCliente": "João da Silva",
-    "saldo": 10000.50
-  }
-  ```
-
-### Exemplo de Resposta:
-
-```json
-"Olá João da Silva, obrigado por criar uma conta no Nilrd Bank. Sua agência é 4456, conta 1234 e seu saldo de R$ 10.000,50 está disponível para saque."
-```
-
-## Evidências
-
-### Frontend - Criação de Conta
-
-<p align="center">
-  <img src="https://github.com/nilrd/NilrdBank/blob/master/src/main/resources/evidencias/front.png" alt="Frontend" style="width: 60%;" />
-</p>
-
-### Resposta da API no Postman
-
-<p align="center">
-  <img src="https://github.com/nilrd/NilrdBank/blob/master/src/main/resources/evidencias/postman.png" alt="Postman" style="width: 60%;" />
-</p>
-
-## Fale comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilsondasilvabrites/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilrd)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511940825120)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nilson.brites@gmail.com)
-
-
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com este projeto! Envie um pull request ou crie uma issue para sugestões e melhorias.
+- [Automocao_DEMOQA](https://github.com/nilrd/Automocao_DEMOQA)
+- [bank-account-challenge](https://github.com/nilrd/bank-account-challenge)
+- [Decodificador-de-Texto-Nilson.Brites-Challenge](https://github.com/nilrd/Decodificador-de-Texto-Nilson.Brites-Challenge)
+- [dio-lab-open-source](https://github.com/nilrd/dio-lab-open-source)
+- [homebroker-automation](https://github.com/nilrd/homebroker-automation)
+- [java-fundamentals](https://github.com/nilrd/java-fundamentals)
+- [mcdonalds-automation](https://github.com/nilrd/mcdonalds-automation)
+- [nilrd](https://github.com/nilrd/nilrd)
+- [NilrdBank](https://github.com/nilrd/NilrdBank)
+- [numero-secreto](https://github.com/nilrd/numero-secreto)
+- [trilha-java-basico-dio](https://github.com/nilrd/trilha-java-basico-dio)
+- [turma-02saucedemo](https://github.com/nilrd/turma-02saucedemo)
