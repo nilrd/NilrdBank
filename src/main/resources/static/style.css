@@ -1,0 +1,80 @@
+/* Estilo geral */
+body {
+    font-family: 'Roboto', sans-serif;  /* Usando uma fonte moderna */
+    background-color: #f3f4f6;  /* Fundo suave */
+    color: #333;  /* Cor de texto mais suave */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  /* Centralizar o conteúdo verticalmente */
+}
+
+/* Estilo do contêiner */
+.container {
+    background-color: white;
+    padding: 30px;  /* Aumentar o espaçamento */
+    border-radius: 12px;  /* Borda mais arredondada */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);  /* Sombra sutil */
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+/* Estilo do logo */
+.logo {
+    display: block;
+    margin: 0 auto 20px auto;
+    max-width: 120px;  /* Ajuste do tamanho do logo */
+    height: auto;
+}
+
+/* Estilo do título */
+h1 {
+    font-size: 24px;  /* Tamanho maior e espaçamento */
+    color: #007bff;  /* Azul moderno */
+    margin-bottom: 20px;
+}
+
+/* Estilo dos inputs */
+form input {
+    width: calc(100% - 20px);  /* Ajuste de largura para inputs */
+    padding: 10px;  /* Melhorar a usabilidade com mais espaço */
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 15px;  /* Mais espaçamento entre os campos */
+    outline: none;
+    transition: border-color 0.3s ease;  /* Suave ao focar */
+}
+
+form input:focus {
+    border-color: #007bff;  /* Cor azul ao focar */
+}
+
+/* Estilo do botão */
+button {
+    padding: 12px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;  /* Transição suave */
+}
+
+button:hover {
+    background-color: #0056b3;  /* Cor mais escura ao passar o mouse */
+}
+
+/* Estilo do resultado */
+#resultado {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #28a745;  /* Cor verde para mensagem de sucesso */
+    font-weight: bold;
+}
