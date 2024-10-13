@@ -1,6 +1,8 @@
 # Nilrd Bank
 
-![Logo](https://via.placeholder.com/150) 
+<p align="center">
+  <img src="https://github.com/nilrd/NilrdBank/blob/master/src/main/resources/static/logo.png" alt="Logo Nilrd Bank" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(255, 255, 255, 1.0); width: 150px;" />
+</p>
 
 **Nilrd Bank** é um sistema bancário simples, criado usando **Spring Boot** no backend e **HTML/CSS/JavaScript** no frontend. O sistema permite criar contas bancárias através de uma interface amigável e moderna.
 
@@ -21,7 +23,7 @@
 ### Backend
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NilrdBank.git
+   git clone git@github.com:nilrd/NilrdBank.git
    ```
 2. Importe o projeto em sua IDE favorita (IntelliJ, Eclipse, etc.).
 3. Execute o arquivo principal `NilrdBankApplication.java`.
@@ -58,16 +60,46 @@ Você também pode testar a criação de conta via **Postman**. Veja um exemplo:
 
 ### Frontend - Criação de Conta
 
-![Frontend](./file-JJYU9IcxJLJQesnF8Q0UD25p)
+<p align="center">
+  <img src="https://github.com/nilrd/NilrdBank/blob/master/src/main/resources/evidencias/front.png" alt="Frontend" style="width: 60%;" />
+</p>
 
 ### Resposta da API no Postman
 
-![Postman](./file-OG494MaGYk3TlafhP9YfGT6R)
+<p align="center">
+  <img src="https://github.com/nilrd/NilrdBank/blob/master/src/main/resources/evidencias/postman.png" alt="Postman" style="width: 60%;" />
+</p>
+<<<<<<< HEAD
 
-## Publicação no GitHub Pages
+## Redes Sociais
 
-Este projeto está disponível no **GitHub Pages** e pode ser acessado pelo link:
-[**Nilrd Bank - GitHub Pages**](https://SEU_USUARIO.github.io/nilrd-bank/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nilsondasilvabrites" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 40px; margin-right: 10px;" />
+  </a>
+  <a href="mailto:nilson.brites@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" style="width: 40px; margin-right: 10px;" />
+  </a>
+  <a href="https://wa.me/5511940825120" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px;" />
+  </a>
+</p>
+=======
+>>>>>>> 147fbb3 (update README.MD)
+
+## Redes Sociais
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nilsondasilvabrites" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 40px; margin-right: 10px;" />
+  </a>
+  <a href="mailto:nilson.brites@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" style="width: 40px; margin-right: 10px;" />
+  </a>
+  <a href="https://wa.me/5511940825120" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px;" />
+  </a>
+</p>
 
 ## Contribuição
 
