@@ -1,9 +1,9 @@
-name: Update README
+name: Atualizar README com Lista de Repositórios
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Atualiza todos os dias
-  workflow_dispatch: # Para rodar manualmente quando quiser
+    - cron: '0 0 * * 0'  # Atualiza toda semana no domingo à meia-noite
+  workflow_dispatch: # Permite rodar manualmente quando necessário
 
 jobs:
   update-readme:
