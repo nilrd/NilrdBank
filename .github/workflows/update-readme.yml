@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Atualiza todos os dias à meia-noite
-  workflow_dispatch: # Para rodar manualmente quando você quiser
+    - cron: '0 0 * * *'  # Atualiza todos os dias
+  workflow_dispatch: # Para rodar manualmente quando quiser
 
 jobs:
   update-readme:

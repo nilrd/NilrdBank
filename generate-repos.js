@@ -19,4 +19,6 @@ axios.get(`https://api.github.com/users/${username}/repos?per_page=100`)
   })
   .catch(error => {
     console.error('Erro ao buscar repositórios:', error);
+
+
   });
